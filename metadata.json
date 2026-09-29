@@ -1,0 +1,6 @@
+{
+  "name": "과속차량 경고용 플래시 비콘 & ITS 경광등 안내 시스템",
+  "description": "과속차량 경고용 100mm 이상 직각/원형 고휘도 플래시 비콘(ON/OFF 제어, 적색/백색, 소모전력, 가격, 마운트, 구매처 및 유튜브) 및 ITS 2구 적청 경광등 기술 가이드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
